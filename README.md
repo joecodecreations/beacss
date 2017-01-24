@@ -28,7 +28,7 @@ BEACSS, is a methodology for creating clean style sheets which focuses on buildi
 For Example:
 ```$repo = 'gen';
 
-#{$repo}-card
+\#{$repo}-card
 ```
 
 
