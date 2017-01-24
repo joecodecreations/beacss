@@ -26,9 +26,13 @@ BEACSS, is a methodology for creating clean style sheets which focuses on buildi
 * If you will be using your styles on several sites, use prefixes on all of your styles to keep them separated. For instance if you are going to make a style called `.card` for your repos `generic` and `custom` you might want to append the repo name to them such as `.gen-card` and `.cus-card`. This can be done in one single file where you set your repo name in SCSS and the changes are impacted throughout the repository.
 
 For Example:
-```$repo = 'gen';
+```
+$repo = 'gen';
 
-`#`{$repo}-card
+`#`{$repo}-card {
+  
+}
+
 ```
 
 
