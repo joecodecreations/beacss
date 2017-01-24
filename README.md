@@ -29,8 +29,8 @@ For Example:
 ```
 $repo = 'gen';
 
-`#`{$repo}-card {
-  
+#{$repo}-card {
+
 }
 
 ```
