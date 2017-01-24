@@ -2,7 +2,7 @@
 
 BEACSS - Block, Element, Attribute CSS
 
-<img src="https://cloud.githubusercontent.com/assets/1434956/16282094/155700ba-387c-11e6-957f-fa5dfe0759f6.gif" />
+<img style="margin: 0 auto;" src="https://cloud.githubusercontent.com/assets/1434956/16282094/155700ba-387c-11e6-957f-fa5dfe0759f6.gif" />
 
 ## Summary
 BEACSS, is a methodology for creating clean style sheets which focuses on building large, scalable and manageable code. BEACSS allows you to  minimize unwanted changes to styles throughout your site when updating and making changes. This allows your code to be easily updated and maintainable by adhering to a small set of rules.
