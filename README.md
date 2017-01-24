@@ -7,8 +7,10 @@ BEACSS - Block, Element, Attribute CSS
 ## Summary
 BEACSS, is a methodology for creating clean style sheets which focuses on building large, scalable and manageable code. BEACSS allows you to  minimize unwanted changes to styles throughout your site when updating and making changes. This allows your code to be easily updated and maintainable by adhering to a small set of rules.
 
-**Index**
-#### * General Sass Best Practices
+## Index
+* [General Sass Best Practices]: google.com "General Sass Best Practices"
+
+
 
 ## General Sass Best Practices
 
